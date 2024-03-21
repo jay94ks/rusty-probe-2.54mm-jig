@@ -7817,13 +7817,13 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid b551c30f-7351-49a7-90fc-08870484900f))
-    (pin "6" (uuid a053ebaf-244b-490a-b1d8-da1942fe86d6))
-    (pin "5" (uuid 95d77e26-fd95-4726-ab34-2017ba850061))
     (pin "2" (uuid 467c45ae-b612-491e-8675-f9326bb76a7f))
-    (pin "8" (uuid 8dd3a9b1-d055-430b-a597-92d555e7645c))
-    (pin "7" (uuid fc64f4fa-e52e-4a1f-8ef6-4829e4a65c4d))
     (pin "3" (uuid ffc53903-df9a-47c6-8773-3e176ab994c0))
     (pin "4" (uuid 93c6ab1b-f92a-4f1b-8ad0-d1c9c7414114))
+    (pin "5" (uuid 95d77e26-fd95-4726-ab34-2017ba850061))
+    (pin "6" (uuid a053ebaf-244b-490a-b1d8-da1942fe86d6))
+    (pin "7" (uuid fc64f4fa-e52e-4a1f-8ef6-4829e4a65c4d))
+    (pin "8" (uuid 8dd3a9b1-d055-430b-a597-92d555e7645c))
     (instances
       (project "rs-probe"
         (path "/224768bc-6009-43ba-aa4a-70cbaa15b5a3"
@@ -9076,15 +9076,15 @@
     (property "Datasheet" "~" (at 312.42 74.93 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "7" (uuid 0b108d64-b7b2-4308-82c0-9fe42d78ab5c))
-    (pin "8" (uuid bd021c60-ae66-40d4-8be1-f471475450b8))
+    (pin "1" (uuid 5c135484-9986-48fc-81e9-20a557698890))
     (pin "10" (uuid d17b2abc-1a7e-44bb-ad06-e9a310a4b275))
     (pin "2" (uuid 685155f9-1888-498e-9db4-1b1f8e8e64be))
     (pin "3" (uuid ff3395fb-6a41-44dc-b951-3fa0efeea543))
-    (pin "5" (uuid 7a7cf0aa-11fe-40d5-8757-cb699132d0b8))
     (pin "4" (uuid 9ed829e4-e983-48b9-969c-6cebbd4a39df))
-    (pin "1" (uuid 5c135484-9986-48fc-81e9-20a557698890))
+    (pin "5" (uuid 7a7cf0aa-11fe-40d5-8757-cb699132d0b8))
     (pin "6" (uuid 5c092323-24ad-42a0-9e63-39fc5984ff5a))
+    (pin "7" (uuid 0b108d64-b7b2-4308-82c0-9fe42d78ab5c))
+    (pin "8" (uuid bd021c60-ae66-40d4-8be1-f471475450b8))
     (pin "9" (uuid 76f8e5ed-992e-4909-8e7c-33d6d17ecfc0))
     (instances
       (project "rs-probe"
