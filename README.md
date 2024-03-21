@@ -26,7 +26,6 @@ The schematic can be found in the GitHub actions, full production files are gene
 ![alt text](rs-probe.jpg "probe")
 
 ## Comparison
-
 Here is a small comparison with a few different probes:
 
 |                       | Rusty Probe            | PicoProbe   | Raspberry Pi Debug Probe | STLinkV3           | JLink              |
